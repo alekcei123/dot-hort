@@ -1,0 +1,17 @@
+/* Светлая тема для панели */
+.panelLight {
+  background-color: #ffffff; /* Белый фон */
+  color: #000000; /* Чёрный текст */
+  border: 1px solid #cccccc; /* Серая рамка */
+  padding: 16px;
+  border-radius: 8px;
+}
+
+/* Тёмная тема для панели */
+.panelDark {
+  background-color: #2d2d2d; /* Тёмно‑серый фон */
+  color: #ffffff; /* Белый текст */
+  border: 1px solid #666666; /* Тёмная рамка */
+  padding: 16px;
+  border-radius: 8px;
+}
