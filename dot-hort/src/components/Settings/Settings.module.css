@@ -1,4 +1,4 @@
-/* Светлая тема для панели */
+
 .panelLight {
   background-color: #ffffff; /* Белый фон */
   color: #000000; /* Чёрный текст */
@@ -7,7 +7,6 @@
   border-radius: 8px;
 }
 
-/* Тёмная тема для панели */
 .panelDark {
   background-color: #2d2d2d; /* Тёмно‑серый фон */
   color: #ffffff; /* Белый текст */
